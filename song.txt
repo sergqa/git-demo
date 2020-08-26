@@ -5,9 +5,3 @@ add 3rd line
 
 + additional 
 lines
-
-++ azaza test git reset
-
-++ new lines, idk
-
-s
